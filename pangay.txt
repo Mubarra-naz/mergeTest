@@ -8,6 +8,7 @@ Write on new 2
 Master edit after tester creation
 
 Tester 1
+edit on br1 for merge 2
 
 tester 2 after main rebase
 tester 2 br1 edit fro merge
@@ -18,3 +19,6 @@ Master edit after tester creation
 samad
 
 edit for merge 1
+
+ edit on br1 for merger2
+
